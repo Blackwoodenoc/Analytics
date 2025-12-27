@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Video Analytics Module",
+  "description": "A sophisticated AI-powered video analysis tool that performs ASR transcription, keyframe extraction, and visual storytelling using the Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
